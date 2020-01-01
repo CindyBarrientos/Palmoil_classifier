@@ -6,8 +6,8 @@ Objective: use high-resolution satellite imaging to automate mapping of oil palm
 
 Strategy and outcome: using PyTorch as the deep learning framework, I trained the VGG16 neural network on satellite images, some of which contained oil palm plantations. After fine-tuning parameters, I achieved an accuracy score as high as 99%, and an f1-score of 0.95.
 
-[Image visualizations](../blob/master/Palm_oil-Visualization.ipynb)
+[Image visualizations](../master/Palm_oil-Visualization.ipynb)
 
-[View code](../blob/master/Palm_oil_classifier-vgg16.ipynb)
+[View code](../master/Palm_oil_classifier-vgg16.ipynb)
 
-[Powerpoint presentation](../blob/master/Palm_oil_classifier.pdf)
+[Powerpoint presentation](../master/Palm_oil_classifier.pdf)
